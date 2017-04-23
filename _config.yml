@@ -1,6 +1,6 @@
 
 title: My Resume
-url: 'http://webjeda.com'
+url: 'https://shagunsodhani.in'
 baseurl: '/online-cv' #change it according to your repository name
 
 
@@ -13,17 +13,20 @@ baseurl: '/online-cv' #change it according to your repository name
 
 
 #Profile information
-name: Alan Doe
+name: Shagun Sodhani
 tagline: Full Stack Developer
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
 #sidebar links
-email: hello@webjeda.com
-phone: 012 345 6789
-website: blog.webjeda.com #do not add http://
-linkedin: alandoe
-github: sharu725
-twitter: '@webjeda'
+email: sshagunsodhani@gmail.com
+phone: (+91) 8130353677
+website: shagunsodhani.in #do not add http://
+github: shagunsodhani
+twitter: '@shagunsodhani'
+stackoverflow: '1353861'
+# blog: 
+linkedin: shagun-sodhani-b2239879
+
 
 
 # Tracker
