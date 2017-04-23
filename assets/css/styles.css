@@ -121,6 +121,13 @@ p {
   margin-top: 0;
   margin-bottom: 5px;
 }
+
+.sidebar-wrapper .title {
+  font-size: 14px;
+  margin-top: 0;
+  margin-bottom: 5px;
+}
+
 .sidebar-wrapper .education-container .item {
   margin-bottom: 15px;
 }
@@ -133,7 +140,36 @@ p {
   margin-bottom: 0px;
   margin-top: 0;
 }
+.sidebar-wrapper .education-container .meta a {
+  color: rgba(255, 255, 255, 0.6);
+  font-weight: 500;
+  margin-bottom: 0px;
+  margin-top: 0;
+}
 .sidebar-wrapper .education-container .time {
+  color: rgba(255, 255, 255, 0.6);
+  font-weight: 500;
+  margin-bottom: 0px;
+}
+.sidebar-wrapper .talk-container .item {
+  margin-bottom: 15px;
+}
+.sidebar-wrapper .talk-container .item:last-child {
+  margin-bottom: 0;
+}
+.sidebar-wrapper .talk-container .venue {
+  color: rgba(255, 255, 255, 0.6);
+  font-weight: 500;
+  margin-bottom: 0px;
+  margin-top: 0;
+}
+.sidebar-wrapper .talk-container .venue a {
+  color: rgba(255, 255, 255, 0.6);
+  font-weight: 500;
+  margin-bottom: 0px;
+  margin-top: 0;
+}
+.sidebar-wrapper .talk-container .time {
   color: rgba(255, 255, 255, 0.6);
   font-weight: 500;
   margin-bottom: 0px;
