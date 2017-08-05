@@ -19,7 +19,7 @@ pic: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and pro
 
 #sidebar links
 email: sshagunsodhani@gmail.com
-phone: (+91) 8130353677
+# phone: (+91) 8130353677
 website: shagunsodhani.in #do not add http://
 github: shagunsodhani
 twitter: '@shagunsodhani'
